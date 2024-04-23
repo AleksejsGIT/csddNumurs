@@ -28,9 +28,7 @@ To run this script, you need:
 ## Running the Script
 
 Before running the script, start Google Chrome with the following command:
-
-chrome.exe --remote-debugging-port=9222 --user-data-dir="C:\Path\To\A\New\Folder"
-Replace `"C:\Path\To\A\New\Folder"` with a path to a folder where Chrome should save user data for this session.
+"C:\Program Files\Google\Chrome\Application\chrome.exe" --remote-debugging-port=9222
 
 ## Notes
 
